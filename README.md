@@ -1,2 +1,1 @@
-# sensyt
-SenSyt website
+initial commit
