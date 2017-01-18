@@ -6,7 +6,7 @@ description: > Security data analytics consulting. Infrastructure and
   training in several areas including malware analysis, security fundmentals,
   data science, and more.
 baseurl: "/"
-url: "http://sensyt.io" # 
+url: "http://sensyt.io" 
 #twitter_username: jekyllrb
 github_username: sensyt 
 # Build settings
