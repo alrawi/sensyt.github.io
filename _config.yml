@@ -14,7 +14,6 @@ theme_settings:
   header_text: >
      <p>Data insights for security</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: "SenSyt Consulting Services"
 
