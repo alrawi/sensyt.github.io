@@ -5,7 +5,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: SENsyt
+  title: SENSYT
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "SenSyt offers consulting services in data analytics focusing on security application. SenSyt also offers training in various related areas." # used by search engines
