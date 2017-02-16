@@ -19,15 +19,16 @@ layout: default
             {{ post.title }}
           </a>
         </h1>
-        <p class="meta">
+        <!--p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
-        </p>
+        </p-->
       </header>
       <div class="excerpt">
         {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.content }}
+        <!--a class="button" href="{{ post.url | prepend: site.baseurl }}">
           {{ site.theme_settings.str_continue_reading }}
-        </a>
+        </a-->
       </div>
     </div>
     {% endfor %}
