@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+### todos
+- Services
+  - ML/DL Training, Scikit-learn, TF, keras
+  - Building and scaling ML pipelines
+  - Migration to Cloud ML (AWS)
+  - Open ended research in ML
+  - ML evaluation/validation
+- Blog
+  -  Using LIME
+  -  Extracting features with Lambda services
+  -  Building a DL model using TF
+  -  Evaluation of malware classifier using ML
+  -  Large-scale training
+  -  Recommended frameworks for ML (sqlite and lmdb)
+  -  Coding techniques to speedup feature expierments 
+  -  Framework to manage expeirments (or use DL book)
+  -  Labeling samples (AVClass)
+  -  Feature engineering (binvis hilbert curves)
+  -  One-shot learning for malware
+  -  Ladder networks for malware (unsupervised)
+  -  GANs for obfuscation
+  -  VT reports using LDA modeling
