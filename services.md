@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services  || 
+title: Services ||
 permalink: /services/
 hide: false
 feature-img: "img/sample_feature_img_3.png"
