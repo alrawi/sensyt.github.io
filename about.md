@@ -1,13 +1,9 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 hide: false
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Sensyt is a consulting services company offering expertise in the area of cyber security and deep learning. We specialize in malware detection systems using the latest advancements in deep learning. We have expertise in migrating and scaling machine learning workloads to the cloud (specifically Amazon Web Services), optimizing machine learning workflows, evaluating training and testing datasets, validating machine learning processes, and offering training in all of the mentioned areas.
