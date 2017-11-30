@@ -1,3 +1,11 @@
+---
+layout: page
+title: Consulting Services
+permalink: /services/
+hide: false
+feature-img: "img/sample_feature_img_3.png"
+---
+
 We offer consulting services in the following areas:
 
 Applying machine learning and deep learning to security applications
