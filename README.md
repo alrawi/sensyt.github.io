@@ -13,51 +13,14 @@ A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and 
 ## License
 The MIT License (MIT)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### todos
--  Services
-  -  ML/DL Training, Scikit-learn, TF, keras
-  -  Building and scaling ML pipelines
-  -  Migration to Cloud ML (AWS)
-  -  Open ended research in ML
-  -  ML evaluation/validation
--  Blog
+- Services
+  - ML/DL Training, Scikit-learn, TF, keras
+  - Building and scaling ML pipelines
+  - Migration to Cloud ML (AWS)
+  - Open ended research in ML
+  - ML evaluation/validation
+- Blog
   -  Using LIME
   -  Extracting features with Lambda services
   -  Building a DL model using TF
