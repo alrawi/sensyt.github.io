@@ -6,4 +6,5 @@ _site/
 *.bak
 *.swp
 *~.nib
-
+.DS_*
+.gitignore
